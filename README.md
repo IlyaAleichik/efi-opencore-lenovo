@@ -1,0 +1,1 @@
+# EFI_OpenCore-LenovoZ510
